@@ -1,10 +1,10 @@
-package com.project1;
+package io.github.thundergoose3000.quality;
 
-import org.junit.Before;
-import org.junit.Test;
-
-import static com.project1.GraphTraversal.breadthFirstTraversal;
+import org.junit.*;
+import java.util.*;
 import static org.junit.Assert.*;
+
+//import static com.project1.GraphTraversal.breadthFirstTraversal;
 
 public class GraphTraversalTest {
 

@@ -1,11 +1,11 @@
-package com.project1;
+package io.github.thundergoose3000.quality;
 
 import java.util.LinkedHashSet;
 import java.util.LinkedList;
 import java.util.Queue;
 import java.util.Set;
 
-import com.project1.Graph.Vertex;
+import io.github.thundergoose3000.quality.Graph.Vertex;
 
 public class GraphTraversal {
 

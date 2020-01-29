@@ -1,4 +1,4 @@
-package com.project1;
+package io.github.thundergoose3000.quality;
 
 import java.util.ArrayList;
 import java.util.HashMap;
