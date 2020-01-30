@@ -4,7 +4,7 @@ import org.junit.*;
 import java.util.*;
 import static org.junit.Assert.*;
 
-//import static com.project1.GraphTraversal.breadthFirstTraversal;
+import static io.github.thundergoose3000.quality.GraphTraversal.breadthFirstTraversal;
 
 public class GraphTraversalTest {
 
